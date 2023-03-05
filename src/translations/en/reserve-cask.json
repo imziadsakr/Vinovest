@@ -1,0 +1,96 @@
+{
+    "reserve_cask": {
+        "outpreform": {
+            "hero_button": "RESERVE YOUR CASK",
+            "hero_description": "Own entire casks of whiskey. Limited availability.",
+            "hero_title": "Reserve Your Cask"
+        },
+        "benefits": {
+            "description": "Grow your passion and returns",
+            "description_1": "Insured and managed by the whiskey experts",
+            "description_2": "Receive a sample bottle from your cask once a year",
+            "description_3": "Take the sting out of tough times with a recession-resistant asset",
+            "description_4": "Schedule a visit to see your cask in person",
+            "description_5": "Don’t want to sell your cask? Opt to have it bottled",
+            "description_6": "Historically, whiskey returns 12-18% on investment per year",
+            "header_1": "Inflation-Resistant",
+            "header_2": "Recession-Resistant",
+            "header_3": "Low Volatility",
+            "header_4": "Direct Ownership",
+            "header_5": "Tax Advantages",
+            "header_6": "Diversified Portfolio",
+            "title": "Whiskeyvest Exclusive Benefits"
+        },
+        "reserve_list" : {
+            "american" : {
+                "name" : "American",
+                "price" : "$1,200",
+                "btn_label" : "Reserve",
+                "description" : "An assortment of high-end new fill American whiskey. Mainly single grain casks of corn, rye, wheat, and barley. To be utilized by well-known American craft whiskey brands such as Whistle Pig, Breckenridge Distillery, and High West Distillery."
+            },
+            "new_age_scotch" : {
+                "name" : "New Age Scotch",
+                "price" : "$4,000 - $ 6,0000",
+                "btn_label" : "Reserve",
+                "description" : "New fill casks from the Holyrood Distillery, the first distillery in Edinburgh, Scotland in a 100 years. Two options available: heavily peated and rauch malt."
+            },
+            "ultra_rare_scotch" : {
+                "name" : "Ultra-Rare Scotch",
+                "price" : "Starting at $15,000",
+                "btn_label" : "Speak with an expert",
+                "description" : "A select ultra-premium cask of Scotch from well-known producers such as Highland Park, Macallan, Ardmore, and many more."
+            },
+            "brand" : {
+                "question" : "Feeling stuck?",
+                "description" : "Let our team of experts help you decide",
+                "btn_label" : "LET VINOVEST DECIDE"
+            }
+        }
+    },
+    "reserve_modals" : {
+        "whiskey_reservation" : {
+            "title" : "Whiskey Reservation"
+        },
+        "checkout" : {
+            "title" : "Whiskey Reservation"
+        },
+        "how_much" : {
+            "title" : "How much are you looking to invest in whiskey?"
+        },
+        "verification" : {
+            "title" : "Reservation Verification"
+        },
+        "success" : {
+            "title" : "Success!",
+            "description" : "Our team will be in touch shortly"
+        },
+        "congrats" : {
+            "title" : "Congrats!",
+            "description" : "Your qualify to become one of our VIP investors, To skip the line, please schedule a call directly with our team."
+        }
+    },
+    "quality": {
+        "lowrisk": {
+            "description": "Enjoy a low correlation with traditional markets and historically high returns.",
+            "header": "Low risk & high rewards"
+        },
+        "hassle": {
+            "description": "We authenticate, store and insure your casks for you. Fancy a drink? You own your whiskey, so just ask and we’ll send you a sample.",
+            "header": "Hassle-free ownership"
+        },
+        "less": {
+            "description": "When you invest through us, we cut out middlemen and pass the savings along to you. More for less? Yup, Exactly right.",
+            "header": "Get more for less"
+        },
+        "expert": {
+            "description": "Our whiskey experts and data scientists help pick the best casks",
+            "header": "Expert guidance"
+        },
+        "learnMore": "LEARN MORE",
+        "title": "Diversify your portfolio around your passion",
+        "topSmallTitle": "GROW YOUR PASSION AND RETURNS"
+    },
+    "add_fine" : {
+        "title" : "Add fine whiskey casks to your portfolio"
+    }
+}
