@@ -111,7 +111,7 @@
     ],
     "devDependencies": {
         "@babel/cli": "^7.14.8",
-        "@babel/core": "^7.14.3",
+        "@babel/core": "^7.21.0",
         "@babel/helper-create-regexp-features-plugin": "^7.12.17",
         "@babel/plugin-proposal-decorators": "^7.13.5",
         "@babel/plugin-proposal-export-namespace-from": "^7.14.5",
